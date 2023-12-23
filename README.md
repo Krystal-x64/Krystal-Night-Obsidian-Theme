@@ -23,6 +23,17 @@ So I chose an already created theme, and wrote and modified CSS code on it, and 
 
 4 - Long one-line codes were "lost" or cropped when exported in PDF, this was corrected so that the code is seen in its entirety, since it is very important in documentation that no crucial information is lost.
 
+## Preview
+
+### In obsidian
+
+![2023-12-23_11-47_1](https://github.com/Krystal-x64/Krystal-Night-Obsidian-Theme-/assets/84544304/7d1e0f88-6759-4093-b85e-50f4af88b3ef)
+
+### In PDF
+
+![2023-12-23_11-48](https://github.com/Krystal-x64/Krystal-Night-Obsidian-Theme-/assets/84544304/7adebc6b-a0f1-4ae4-a665-6c436ad619b2)
+
 ## Soon...
 
 In some future I will put visual examples of before and after, and examples of reports and writeups together in their .md
+
